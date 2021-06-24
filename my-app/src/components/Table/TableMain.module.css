@@ -1,0 +1,11 @@
+.main{
+    width: 90%;
+    margin-left: 3rem;
+    margin-top: 1.7rem;
+    /* border: 1px solid black; */
+}
+
+.main td{
+    /* border: 1px solid black; */
+    width: 100%;
+}
