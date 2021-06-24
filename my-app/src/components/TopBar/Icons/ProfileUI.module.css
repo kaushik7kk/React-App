@@ -1,0 +1,19 @@
+.profile_content{
+    display: inline-block;
+    padding-right: 1.5rem;
+}
+
+
+.icon{
+    color: #673AB7;
+    font-size: 1.9rem;
+    padding-right: 0.7rem;
+    cursor: pointer;
+}
+
+.text{
+    display: inline-block;
+    font-size: 1.5rem;
+    padding-right: 0.7rem;
+    padding-bottom: 0.5rem;
+}
