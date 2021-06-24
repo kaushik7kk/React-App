@@ -1,0 +1,42 @@
+/* .nav_buttons{
+    width: 40%;
+} */
+
+.nav_button{
+    border: none;
+    background: none;
+    cursor: pointer;
+    padding-bottom: 0.3rem;
+
+}
+
+.nav_button:nth-of-type(1){
+    padding-right: 1rem;
+    border-right: 1px solid rgba(122, 122, 122, 0.308);
+}
+
+.nav_button_icon{
+    padding: 0 0.5rem;
+    font-size: 1rem;
+    color: #9c9b9b;
+}
+
+.nav_text{
+    font-size: 0.9rem;
+    opacity: 50%;
+}
+
+.active .nav_button_icon{
+    color: #673AB7;
+}
+
+.active .nav_text{
+    color: #673AB7;
+    opacity: 100%;
+    font-weight: 400;
+}
+
+button.active {
+    border-bottom: 3px solid #673AB7 ;
+    border-radius: 10%;
+}
