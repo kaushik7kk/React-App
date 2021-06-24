@@ -1,0 +1,15 @@
+.listMain{
+    list-style-type: none;
+    padding-left: 0%;
+}
+
+.list_item{
+    border: none;
+    width: 100%;
+    background: none;
+    text-align: start;
+    padding-left: 0%;
+    padding-bottom: 0%;
+    margin: 0%;
+    cursor: pointer;
+}
