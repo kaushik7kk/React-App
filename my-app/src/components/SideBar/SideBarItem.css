@@ -1,0 +1,30 @@
+.title{
+    display: inline-block;
+    padding-left: 1rem; 
+    opacity: 50%;
+}
+
+.icons{
+    color: #9c9b9b;
+    padding-left: 1.2rem;
+}
+
+.item:hover{
+    background-color: #f3ebff;
+}
+
+li.active{
+    background-color: #E1D8F1;
+    border-left: 5px solid #673AB7;
+}
+
+li.active .title{
+    opacity: 100%;
+    color: #673AB7;
+    font-weight: 600;
+}
+
+li.active .icons{
+    color: #673AB7;
+
+}
