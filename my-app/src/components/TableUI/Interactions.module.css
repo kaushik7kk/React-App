@@ -1,0 +1,23 @@
+.table_actions{
+    display: flex;
+    align-items: center;
+}
+
+.detailed_actions{
+    display: flex;
+    align-items: center;
+    margin-top: 2rem;
+    margin-left: 2rem;
+}
+
+.detailed_actions span{
+    margin-left: 1rem;
+    margin-right: 2rem;
+    color: #673AB7;
+    font-weight: 500;
+    ;
+}
+
+.detailed_actions .icon{
+    color: rgb(105, 105, 105);
+}

@@ -1,0 +1,20 @@
+.role_button{
+    display: flex;
+    align-items: center;
+    background-color: #673AB7;
+    border: none;
+    border-radius: 5px;
+    margin-top: 1.5rem;
+    margin-left: 3rem;
+}
+
+.icon{
+    color: white;
+    padding: 0.7rem;
+}
+
+.role_button span{
+    padding-right: 1.5rem;
+    color: white;
+    font-weight: 600;
+}

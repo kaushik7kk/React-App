@@ -1,0 +1,9 @@
+.links{
+    border-right: 1px solid rgba(75, 74, 74, 0.247);
+    padding: 0.2rem;
+    font-size: 0.9rem;
+}
+
+.links:last-child{
+    border-right: none;
+}
