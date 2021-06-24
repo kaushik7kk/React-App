@@ -1,0 +1,7 @@
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 3.4rem;
+    margin-top: 0.7rem;
+}

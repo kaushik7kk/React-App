@@ -1,0 +1,21 @@
+.brand_items{
+    display: flex;
+    align-items: center;
+}
+
+.logo{
+    display: inline-block;
+    padding-left: 0.7rem;
+    padding-right: 0.4rem;
+    padding-top: 0.4rem;
+    cursor: pointer;
+}
+
+.bName{
+    display: inline-block;
+    font-size: 2.3rem;
+    color: #330B86;
+    font-weight: 700;
+    padding-left: 0.5rem;
+    cursor: pointer;
+}
